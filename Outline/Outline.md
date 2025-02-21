@@ -46,7 +46,9 @@ unfamiliar package and learn how to use it.
       1. What is a package?
       2. Installing packages using conda
       3. Installing packages using pip
-      4. Importing packages
+      4. (Optional) Jupyter notebook trick – Magic commands
+      5. (Optional) Other installation tips
+      6. Importing packages
    3. **Exercises**
 2. **Module 2 -- Introduction to NumPy Arrays (50 minutes)**
    1. Introduction to Arrays
