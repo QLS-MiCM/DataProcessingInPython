@@ -37,7 +37,7 @@ how to approach a new, unfamiliar package and learn how to use it.
 
 This workshop is intended to be interactive. Before the workshop, please download the materials from this repository. You can download the material as a ZIP file using the green button higher up on this page, or you can simply clone this repository by typing the following in a terminal:
 
-```
+```shell
 git clone https://github.com/bzrudski/Data-Processing-in-Python.git
 ```
 
@@ -56,11 +56,11 @@ You must also install the following packages:
 The required steps depend on how you installed Python:
 
 * **(Recommended)** If you installed **minconda**, you can easily install all these packages by running the following on the command line:
-```
-conda install -c conda-forge jupyterlab numpy matplotlib pandas
+```shell
+conda install -c conda-forge jupyterlab numpy matplotlib pandas -y
 ```
 * If you installed Python from the official website, you can easily install Jupyter using `pip` by running the following on the command line:
-```
+```shell
 pip install jupyterlab numpy matplotlib pandas
 ```
 * If you installed **Anaconda**, you already have everything you need installed.
