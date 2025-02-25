@@ -115,6 +115,8 @@ This workshop is based on my previous iterations of this workshop (as **Intermed
 
 Colab badge created using https://shields.io.
 
+Some cool Markdown tricks can be found at https://www.markdownguide.org/hacks/.
+
 ---
 
 *Workshop created as part of the McGill Initiative in Computational Medicine*.
