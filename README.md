@@ -15,10 +15,11 @@ how to approach a new, unfamiliar package and learn how to use it.
 
 ## Learning Objectives
 
-1.  Store data in variables and collections.
-2.  Perform basic operations on these data.
-3.  Use control flow and loops to write powerful code.
-4.  Define functions to create repeatable units of behaviour.
+1. Import code from existing modules and packages.
+2. Use NumPy to easily process multidimensional data.
+3. Use Matplotlib to generate different types of plots to visualise
+   data.
+4. Approach a new package and explore its documentation and examples.
 
 ## Prerequisites
 
