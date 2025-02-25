@@ -83,7 +83,7 @@ If you don't want to install anything locally, you can open the workshop materia
 * Student version (with blank fields): https://colab.research.google.com/github/bzrudski/Data-Processing-in-Python/blob/main/Exercises/scripts/DataProcessingPython.ipynb
 * Solution version (filled out): https://colab.research.google.com/github/bzrudski/Data-Processing-in-Python/blob/main/Exercises/solutions/DataProcessingPython.ipynb
 
-> &#x26A0; **Warning:** If you are using Google Colab, you need to upload all the files for the exercises and correct the paths. I suggest uploading them all to the `content` directory. This affects the exercises and one of the live coding cells.
+> &#x26A0; **Warning:** To configure for Google Colab, make sure to set `using_colab = True` in the first code cell and run that cell to download all the data files.
 
 ## Outline
 
