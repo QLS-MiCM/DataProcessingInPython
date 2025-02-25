@@ -1,4 +1,4 @@
-# Intro to Python Workshop
+# Data Processing in Python (Part 2)
 
 [![Open student version in Colab](https://img.shields.io/badge/Open%20in%20Colab-Student%20version-blue?logo=googlecolab)](https://colab.research.google.com/github/bzrudski/Data-Processing-in-Python/blob/main/Exercises/scripts/DataProcessingPython.ipynb)
 [![Open solutions version in Colab](https://img.shields.io/badge/Open%20in%20Colab-Solutions%20version-blue?logo=googlecolab)](https://colab.research.google.com/github/bzrudski/Data-Processing-in-Python/blob/main/Exercises/solutions/DataProcessingPython.ipynb)
