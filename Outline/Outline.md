@@ -25,8 +25,8 @@ After seeing how to access packages, we will explore popular data
 analysis packages. We will see how to use NumPy to perform operations on
 large data arrays and how to use Matplotlib to generate clear data
 visualisations. We will also scratch the surface on using pandas to
-store data in tables. Along the way, we will discuss how to approach a
-new, unfamiliar package and learn how to use it.
+store data in tables. Along the way, we will discuss how to approach
+new, unfamiliar packages and learn how to use them.
 
 ## Learning Objectives
 
