@@ -24,8 +24,9 @@ modules and packages to take advantage of the existing Python ecosystem.
 After seeing how to access packages, we will explore popular data
 analysis packages. We will see how to use NumPy to perform operations on
 large data arrays and how to use Matplotlib to generate clear data
-visualisations. Finally, we will discuss how to approach a new,
-unfamiliar package and learn how to use it.
+visualisations. We will also scratch the surface on using pandas to
+store data in tables. Along the way, we will discuss how to approach a
+new, unfamiliar package and learn how to use it.
 
 ## Learning Objectives
 
@@ -33,9 +34,10 @@ unfamiliar package and learn how to use it.
 2. Use NumPy to easily process multidimensional data.
 3. Use Matplotlib to generate different types of plots to visualise
    data.
-4. Approach a new package and explore its documentation and examples.
+4. Use pandas to represent data stored in tables.
+5. Approach a new package and explore its documentation and examples.
 
-## Content:
+## Content
 
 1. **Module 1 -- Modules and Packages (40 minutes)**
    1. Using Modules
@@ -79,9 +81,9 @@ unfamiliar package and learn how to use it.
    1. Fundamentals of pandas
       1. Motivation: When arrays aren't enough...
       2. Introducing the Series and DataFrame
-      2. Loading and saving tables
-   3. Exploring the pandas Documentation
-   4. **Exercise**
+      3. Loading and saving tables
+   2. Exploring the pandas Documentation
+   3. **Exercise**
 5. **Module 5 -- A Brief Guide to Exploring the Unknown (10 minutes)**
    1. What to learn next? How?
    2. How to get help and how not to get help
