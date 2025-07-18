@@ -1,8 +1,8 @@
 # Data Processing in Python (Part 2)
 
 **Click one of these:**
-[![Open student version in Colab](https://img.shields.io/badge/Open%20in%20Colab-Student%20version-blue?logo=googlecolab)](https://colab.research.google.com/github/bzrudski/Data-Processing-in-Python/blob/main/Exercises/scripts/DataProcessingPython.ipynb)
-[![Open solutions version in Colab](https://img.shields.io/badge/Open%20in%20Colab-Solutions%20version-blue?logo=googlecolab)](https://colab.research.google.com/github/bzrudski/Data-Processing-in-Python/blob/main/Exercises/solutions/DataProcessingPython.ipynb)
+[![Open student version in Colab](https://img.shields.io/badge/Open%20in%20Colab-Student%20version-blue?logo=googlecolab)](https://colab.research.google.com/github/QLS-MiCM/DataProcessingInPython/blob/main/Exercises/scripts/DataProcessingPython.ipynb)
+[![Open solutions version in Colab](https://img.shields.io/badge/Open%20in%20Colab-Solutions%20version-blue?logo=googlecolab)](https://colab.research.google.com/github/QLS-MiCM/DataProcessingInPython/blob/main/Exercises/solutions/DataProcessingPython.ipynb)
 
 ## Overview
 
@@ -36,7 +36,7 @@ By the end of this workshop, you should be able to:
 This workshop is intended to be interactive. Before the workshop, please download the materials from this repository. You can download the material as a ZIP file using the green button higher up on this page, or you can simply clone this repository by typing the following in a terminal:
 
 ```shell
-git clone https://github.com/bzrudski/Data-Processing-in-Python.git
+git clone https://github.com/QLS-MiCM/DataProcessingInPython.git
 ```
 
 ### Requirements
@@ -81,8 +81,8 @@ Then you can open the Jupyter notebook files in the `Exercises/scripts` and `Exe
 
 If you don't want to install anything locally, you can open the workshop materials using Google Colab:
 
-* Student version (with blank fields): <https://colab.research.google.com/github/bzrudski/Data-Processing-in-Python/blob/main/Exercises/scripts/DataProcessingPython.ipynb>
-* Solution version (filled out): <https://colab.research.google.com/github/bzrudski/Data-Processing-in-Python/blob/main/Exercises/solutions/DataProcessingPython.ipynb>
+* Student version (with blank fields): <https://colab.research.google.com/github/QLS-MiCM/DataProcessingInPython/blob/main/Exercises/scripts/DataProcessingPython.ipynb>
+* Solution version (filled out): <https://colab.research.google.com/github/QLS-MiCM/DataProcessingInPython/blob/main/Exercises/solutions/DataProcessingPython.ipynb>
 
 > &#x26A0; **Warning:** To configure for Google Colab, make sure to set `using_colab = True` in the first code cell and run that cell to download all the data files.
 
