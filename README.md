@@ -98,6 +98,10 @@ If you don't want to install anything locally, you can open the workshop materia
 
 ## References
 
+In developing this workshop, I largely relied on the documentation of the various projects discussed, including NumPy, Matplotlib, pandas, conda and pip, as well as the official Python documentation. I've provided links to these projects in the interactive Jupyter notebook. I've also referenced a few useful other tutorials throughout the notebook.
+
+This workshop would also not have been possible without the professors and others who helped me on my Python journey.
+
 This workshop is based on my previous iterations of this workshop (as **Intermediate Python**) and my **Intro to Python** workshop, which can be found at the following repositories:
 
 * Intro to Python:
