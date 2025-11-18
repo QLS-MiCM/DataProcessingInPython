@@ -53,20 +53,18 @@ new, unfamiliar packages and learn how to use them.
       6. Importing packages
    3. **Exercises**
 2. **Module 2 -- Introduction to NumPy Arrays (50 minutes)**
-   1. Introduction to Arrays
+   1. Introducing NumPy
       1. What is an array?
-      2. Why not lists?
-   2. Introducing NumPy
       1. NumPy fundamentals
       2. Creating and reshaping arrays
       3. Indexing arrays
       4. Simple assignments
-   3. Array Operations
+   2. Array Operations
       1. Element-wise arithmetic
       2. Statistics on arrays
       3. Combining arrays
       4. Exploring the documentation
-   4. **Exercises**
+   3. **Exercises**
 3. **Module 3 -- Visualising Data with Matplotlib (50 minutes)**
    1. Creating Plots with Matplotlib
       1. Introduction to pyplot
@@ -77,11 +75,12 @@ new, unfamiliar packages and learn how to use them.
       6. Generating subplots
    2. Exploring the Matplotlib Documentation
    3. **Exercises**
-4. **Module 4 -- Intro to Tabular Data with Pandas (30 minutes)**
+4. **Module 4 -- Intro to Tabular Data with Pandas (40 minutes)**
    1. Fundamentals of pandas
       1. Motivation: When arrays aren't enough...
       2. Introducing the Series and DataFrame
-      3. Loading and saving tables
+      3. Intro to Grouping
+      4. Loading and saving tables
    2. Exploring the pandas Documentation
    3. **Exercise**
 5. **Module 5 -- A Brief Guide to Exploring the Unknown (10 minutes)**
