@@ -7,7 +7,7 @@
 
 ## Overview
 
-In this 4-hour workshop, students will learn basic data processing skills using Python. Attendees will learn how to import code from other modules and packages to take advantage of the existing Python ecosystem. After seeing how to access packages, we will explore popular data analysis packages. We will see how to use NumPy to perform operations on large data arrays and how to use Matplotlib to generate clear data visualisations. We will also scratch the surface on using pandas to store data in tables. Along the way, we will discuss how to approach new, unfamiliar packages and learn how to use them.
+In this 2-hour workshop, students will learn basic data processing skills using Python. Attendees will learn how to import code from other modules and packages to take advantage of the existing Python ecosystem. After seeing how to access packages, we will explore popular data analysis packages. We will see how to use NumPy to perform operations on large data arrays and how to use Matplotlib to generate clear data visualisations. We will also scratch the surface on using pandas to store data in tables. Along the way, we will discuss how to approach new, unfamiliar packages and learn how to use them.
 
 ## Learning Objectives
 
@@ -43,10 +43,10 @@ In your Python environment, you must have the following packages installed:
 
 ## Links to Colab
 
-If you don't want to install anything locally, you can open the workshop materials using Google Colab:
+If you don't want to install anything locally, you can open the workshop materials using Google Colab. For this 2-hour workshop, we will be using the "Compact student version", since the "Student version" is intended for a 4-hour workshop.
 
-* Student version (with blank fields): <https://colab.research.google.com/github/QLS-MiCM/DataProcessingInPython/blob/main/Exercises/scripts/DataProcessingPython.ipynb>
 * Compact student version (with blank fields and shorter explanations): <https://colab.research.google.com/github/QLS-MiCM/DataProcessingInPython/blob/main/Exercises/scripts/DataProcessingPythonCompact.ipynb>
+* Student version (with blank fields): <https://colab.research.google.com/github/QLS-MiCM/DataProcessingInPython/blob/main/Exercises/scripts/DataProcessingPython.ipynb>
 * Solution version (filled out): <https://colab.research.google.com/github/QLS-MiCM/DataProcessingInPython/blob/main/Exercises/solutions/DataProcessingPython.ipynb>
 
 > &#x26A0; **Warning:** Make sure that `using_colab = True` in the first code cell and run that cell to download all the data files required for this workshop.
