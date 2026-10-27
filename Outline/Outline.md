@@ -1,6 +1,6 @@
 # Data Processing in Python (Part 2)
 
-**Approximate duration:** 4 hours
+**Approximate duration:** 2 hours
 
 # Prerequisites:
 
@@ -18,7 +18,7 @@
 
 ## Summary
 
-In this 4-hour workshop, students will learn basic data processing
+In this 2-hour workshop, students will learn basic data processing
 skills using Python. Attendees will learn how to import code from other
 modules and packages to take advantage of the existing Python ecosystem.
 After seeing how to access packages, we will explore popular data
@@ -39,7 +39,7 @@ new, unfamiliar packages and learn how to use them.
 
 ## Content
 
-1. **Module 1 -- Modules and Packages (40 minutes)**
+1. **Module 1 -- Modules and Packages (20 minutes)**
    1. Using Modules
       1. What is a module?
       2. Importing a module
@@ -52,7 +52,7 @@ new, unfamiliar packages and learn how to use them.
       5. (Optional) Other installation tips
       6. Importing packages
    3. **Exercises**
-2. **Module 2 -- Introduction to NumPy Arrays (50 minutes)**
+2. **Module 2 -- Introduction to NumPy Arrays (30 minutes)**
    1. Introducing NumPy
       1. What is an array?
       1. NumPy fundamentals
@@ -65,7 +65,7 @@ new, unfamiliar packages and learn how to use them.
       3. Combining arrays
       4. Exploring the documentation
    3. **Exercises**
-3. **Module 3 -- Visualising Data with Matplotlib (50 minutes)**
+3. **Module 3 -- Visualising Data with Matplotlib (30 minutes)**
    1. Creating Plots with Matplotlib
       1. Introduction to pyplot
       2. Creating simple plots, bar plots, histograms, ...
@@ -75,7 +75,7 @@ new, unfamiliar packages and learn how to use them.
       6. Generating subplots
    2. Exploring the Matplotlib Documentation
    3. **Exercises**
-4. **Module 4 -- Intro to Tabular Data with Pandas (40 minutes)**
+4. **Module 4 -- Intro to Tabular Data with Pandas (30 minutes)**
    1. Fundamentals of pandas
       1. Motivation: When arrays aren't enough...
       2. Introducing the Series and DataFrame
